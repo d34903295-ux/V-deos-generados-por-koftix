@@ -11,6 +11,7 @@ Cada video es un MP4 listo para TikTok / Reels / Shorts.
 | `la-segunda-guerra-mundial-en-60-segundos-v4.mp4` | V4: voz neural Dalia + rig de nulls + grade teal-naranja, bloom y leaks | 53 s |
 | `la-segunda-guerra-mundial-en-30-segundos-viral.mp4` | V5 VIRAL ≤31s: guion hook-loop + whip/flash/glitch/wipe + loop perfecto | 31 s |
 | `la-segunda-guerra-mundial-en-30-segundos-v6.mp4` | V6: voz Elvira + subs 2.0 + cámara Z + tracking + partículas + CTA Hyperframes | 29 s |
+| `la-segunda-guerra-mundial-en-30-segundos-v7.mp4` | V7: hook Remotion cromo + look analógico + guiño VHS | 29 s |
 | `rod-wave-dont-look-down-tour-philly.mp4` | CAMPAÑA Rod Wave Don't Look Down Tour (Philly, clip hype con texto EN) | 29 s |
 
 El guion, la narración por bloques, las fuentes de imágenes y los créditos
