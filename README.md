@@ -13,6 +13,7 @@ Cada video es un MP4 listo para TikTok / Reels / Shorts.
 | `la-segunda-guerra-mundial-en-30-segundos-v6.mp4` | V6: voz Elvira + subs 2.0 + cámara Z + tracking + partículas + CTA Hyperframes | 29 s |
 | `la-segunda-guerra-mundial-en-30-segundos-v7.mp4` | V7: hook Remotion cromo + look analógico + guiño VHS | 29 s |
 | `rod-wave-dont-look-down-tour-philly.mp4` | CAMPAÑA Rod Wave Don't Look Down Tour (Philly, clip hype con texto EN) | 29 s |
+| `losercore-peak-spotify-playlist.mp4` | CAMPAÑA losercore: montaje POV playlist Spotify con texto EN | 30 s |
 
 El guion, la narración por bloques, las fuentes de imágenes y los créditos
 viven en el proyecto principal (`storage/agent-video/`).
