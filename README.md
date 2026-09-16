@@ -8,6 +8,7 @@ Cada video es un MP4 listo para TikTok / Reels / Shorts.
 | `la-segunda-guerra-mundial-en-60-segundos.mp4` | La Segunda Guerra Mundial en 60 segundos (educativo, v1) | 63 s |
 | `la-segunda-guerra-mundial-en-60-segundos-remaster.mp4` | REMASTER: footage de archivo real + karaoke + música y SFX (v2) | 63 s |
 | `la-segunda-guerra-mundial-en-60-segundos-3d.mp4` | V3 con 3D Blender: título de acero "1939" + "SÍGUEME" de oro | 63 s |
+| `la-segunda-guerra-mundial-en-60-segundos-v4.mp4` | V4: voz neural Dalia + rig de nulls + grade teal-naranja, bloom y leaks | 53 s |
 
 El guion, la narración por bloques, las fuentes de imágenes y los créditos
 viven en el proyecto principal (`storage/agent-video/`).
