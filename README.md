@@ -14,6 +14,7 @@ Cada video es un MP4 listo para TikTok / Reels / Shorts.
 | `la-segunda-guerra-mundial-en-30-segundos-v7.mp4` | V7: hook Remotion cromo + look analógico + guiño VHS | 29 s |
 | `la-segunda-guerra-mundial-en-30-segundos-v9.mp4` | V9: karaoke exacto + hook Hyperframes + fondo IA + presets Drift | 29 s |
 | `rod-wave-dont-look-down-tour-philly.mp4` | CAMPAÑA Rod Wave Don't Look Down Tour (Philly, clip hype con texto EN) | 29 s |
+| `rod-wave-philly-duet-tiktok.mp4` | DEMO gramática nativa: dueto + memes + stamp + rail (Philly) | 14 s |
 | `losercore-peak-spotify-playlist.mp4` | CAMPAÑA losercore: montaje POV playlist Spotify con texto EN | 30 s |
 | `alan-fitzpatrick-we-do-what-we-want-superman-edit.mp4` | EDIT techno: Superman'41 × Pearl Harbor al beat (133 BPM) | 26 s |
 
